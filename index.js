@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["LISTENING TO YUONGZMIN✨","PLAY MUSIC WITH YUONGZMIN✨"];
+const statusMessages = ["YUONGZMIN👑","YUONGZBOI🙇"];
 
 
 let currentIndex = 0;
