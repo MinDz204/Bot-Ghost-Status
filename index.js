@@ -31,8 +31,8 @@ app.get('/', (req, res) => {
   res.send('YuongzMin Dep Trai✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to YuongzMin: http://localhost:${port}`);
-  console.log(`🔗 Powered By YuongzMin`);
+  console.log(`🔗 Listening to YuongzMin✨: http://localhost:${port}`);
+  console.log(`🔗 Powered By YuongzMin✨`);
 });
 
 
